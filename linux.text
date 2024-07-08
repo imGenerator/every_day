@@ -1,0 +1,6 @@
+# 经常使用指令：
+1、cd fileName 切换文件目录
+2、mkdir fileName 创建文件夹
+3、touch test.md / test.text 创建文件
+4、rm -d test.md 删除文件 / 文件夹
+5、where 查询文件
