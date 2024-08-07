@@ -1,9 +1,5 @@
 # 面试官：说说flexbox（弹性盒布局模型）,以及适用场景？
 
- ![](https://static.vue-js.com/ef25b0a0-9837-11eb-ab90-d9ae814b240d.png)
-
-
-
 ## 一、是什么
 
 `Flexible Box` 简称 `flex`，意为”弹性布局”，可以简便、完整、响应式地实现各种页面布局
